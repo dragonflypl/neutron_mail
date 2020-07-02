@@ -310,7 +310,7 @@ body {
 		flex-direction: row;
 		/* flex-wrap: nowrap; */
 		/* padding-top: 22%; */
-		padding-top: 22vh;
+		padding-top: 200px;
 	}
 	.security-right {
 		order: 0;
