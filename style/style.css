@@ -16,6 +16,14 @@ body {
 	overflow-x: hidden;
 }
 
+input,
+textarea,
+button,
+select,
+a {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
 .header {
 	display: flex;
 	align-items: baseline;
